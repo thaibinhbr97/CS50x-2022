@@ -7,21 +7,21 @@ Every exercise in this repository scored 100% on submission.
 ## Table Of Contents
 
 - <a href='https://cs50.harvard.edu/x/2022/psets/1/'>C</a>
-  * [hello](/pset1/hello)
-  * [mario-more](/pset1/mario-more)
-  * [credit](/pset1/credit)
+  * [hello](/C/hello)
+  * [mario-more](/C/mario-more)
+  * [credit](/C/credit)
 - <a href='https://cs50.harvard.edu/x/2022/psets/2/'>Arrays</a>
-  * [scrabble](/pset2/scrabble)
-  * [readability](/pset2/readability) 
-  * [substitution](/pset2/substitution)
+  * [scrabble](/Arrays/scrabble)
+  * [readability](/Arrays/readability) 
+  * [substitution](/Arrays/substitution)
 - <a href='https://cs50.harvard.edu/x/2022/psets/3/'>Algorithms</a>
-  * [sort](/pset3/sort)
-  * [plurality](/pset3/plurality)
-  * [tideman](/pset3/tideman)
+  * [sort](/Algorithms/sort)
+  * [plurality](/Algorithms/plurality)
+  * [tideman](/Algorithms/tideman)
 - <a href='https://cs50.harvard.edu/x/2022/psets/4/'>Memory</a>
-  * [volume](/pset4/volume) 
-  * [filter-more](/pset4/filter-more)
-  * [recover](/pset4/recover)
+  * [volume](/Memory/volume) 
+  * [filter-more](/Memory/filter-more)
+  * [recover](/Memory/recover)
 
 ### DISCLAIMER:
 Please don't just copy the code mindlessly without trying to solve the problems yourself, it's totally useless if you actually want to learn how to become a better programmer and it is a violation of the [**Academic Honesty**](https://cs50.harvard.edu/x/2022/honesty/) policy of the course.
