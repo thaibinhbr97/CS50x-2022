@@ -1,0 +1,58 @@
+random5000.txt
+sort1: 0.068s
+sort2: 0.126s
+sort3: 0.053s
+
+random10000.txt
+sort1: 0.288s
+sort2: 0.063s
+sort3: 0.231s
+
+random50000.txt
+sort1: 8.619s
+sort2: 0.679s
+sort3: 3.950s
+
+reversed5000.txt
+sort1: 0.074s
+sort2: 0.085s
+sort3: 0.075s
+
+reversed10000.txt
+sort1: 0.284s
+sort2: 0.099s
+sort3: 0.207s
+
+reversed50000.txt
+sort1: 6.384s
+sort2: 1.019s // Merge Sort since it has the lowest time among 3 sorts for random50000.txt which is O(nlog(n)) for the worst case scenerio. Moreover, it has around the same time for the worst, average and best cases for 50000.txt
+sort3: 3.698s
+
+sorted5000.txt
+sort1: 0.032s
+sort2: 0.044s
+sort3: 0.048s
+
+sorted10000.txt
+sort1: 0.060s
+sort2: 0.087s
+sort3: 0.199s
+
+sorted50000.txt
+sort1: 0.893s // Bubble Sort since it has the significantly different running time between the best case and the worst case scenerio for 50000.txt
+sort2: 0.842s
+sort3: 3.825s // Selection Sort since it has the highest time among 3 sorts for sorted50000.txt which is O(n^2) for the best case scenerio. Moreover, it has the similar time as for the worst case scenerio for reversed50000.txt
+
+
+
+sort1 uses: Bubble Sort
+
+How do you know?: it has the significantly different running time between the best case and the worst case scenerio for 50000.txt
+
+sort2 uses: Merge Sort
+
+How do you know?: it has the lowest time among 3 sorts for random50000.txt which is O(nlog(n)) for the worst case scenerio. Moreover, it has around the same time for the worst, average and best cases for 50000.txt
+
+sort3 uses: Selection Sort
+
+How do you know?: it has the highest time among 3 sorts for sorted50000.txt which is O(n^2) for the best case scenerio. Moreover, it has the similar time as for the worst case scenerio for reversed50000.txt
