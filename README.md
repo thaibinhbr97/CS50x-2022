@@ -6,26 +6,20 @@ Every exercise in this repository scored 100% on submission.
 
 ## Table Of Contents
 
-- [<a href='https://cs50.harvard.edu/x/2022/psets/1/'>C</a>]
+- <a href='https://cs50.harvard.edu/x/2022/psets/1/'>C</a>
   * [hello](/pset1/hello)
   * [mario-more](/pset1/mario-more)
   * [credit](/pset1/credit)
-- [<a href='https://cs50.harvard.edu/x/2022/psets/2/'>Arrays</a>]
-  ** <a href='https://cs50.harvard.edu/x/2022/labs/2/'>Lab</a>
+- <a href='https://cs50.harvard.edu/x/2022/psets/2/'>Arrays</a>
   * [scrabble](/pset2/scrabble)
-<a href='https://cs50.harvard.edu/x/2022/psets/2/'> Assignment 2</a>
   * [readability](/pset2/readability) 
   * [substitution](/pset2/substitution)
-- [<a href='https://cs50.harvard.edu/x/2022/psets/3/'>Algorithms</a>]
-<a href='https://cs50.harvard.edu/x/2022/labs/3/'> Lab 3 </a>
+- <a href='https://cs50.harvard.edu/x/2022/psets/3/'>Algorithms</a>
   * [sort](/pset3/sort)
-<a href='https://cs50.harvard.edu/x/2022/psets/3/'> Assignment 3</a> 
   * [plurality](/pset3/plurality)
   * [tideman](/pset3/tideman)
-- [<a href='https://cs50.harvard.edu/x/2022/psets/4/'>Memory</a>]
-<a href='https://cs50.harvard.edu/x/2022/labs/4/'> Lab 4 </a>
-  * [volume](/pset4/volume)
-<a href='https://cs50.harvard.edu/x/2022/psets/4/'> Assignment 4</a> 
+- <a href='https://cs50.harvard.edu/x/2022/psets/4/'>Memory</a>
+  * [volume](/pset4/volume) 
   * [filter-more](/pset4/filter-more)
   * [recover](/pset4/recover)
 
